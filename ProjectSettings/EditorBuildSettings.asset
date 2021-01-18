@@ -6,13 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/nomarker.unity
+    path: Assets/Scenes/main.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/marker.unity
-    guid: 6055ca5c95988c42586a995493a66484
-  m_configObjects:
-    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: ac970d136d518d97ba6b3211eafb8dbe,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a8e1b55f69b10b451b74a6de6fd325c4,
-      type: 2}
+  m_configObjects: {}
